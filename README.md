@@ -35,7 +35,7 @@ The project is a database observability tool that collects slow query logs, anal
 - **«include»:** Recommend Missing Indexes includes Parse EXPLAIN Execution Plan; Generate Weekly Performance Digest includes Recommend Missing Indexes
 - **«extend»:** Send Threshold Alert extends Ingest Slow Query Logs
 
-![UML Use-Case Diagram](DB_Query_Profiler_UseCase.png)
+<img src="DB_Query_Profiler_UseCase.png" alt="UML Use-Case Diagram" width="600">
 
 ### 3. Use-Case Flow
 
