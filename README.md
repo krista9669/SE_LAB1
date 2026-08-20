@@ -3,7 +3,6 @@
 **Name:** Krishitha Kankanala
 **SRN:** PES2UG24CS234
 **Class:** 5D
-**Course:** PES University — Dept. of CSE
 
 ## Problem Statement
 
